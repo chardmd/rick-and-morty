@@ -2,7 +2,7 @@
 
 Rick and Morty Show Listing app.
 
-[https://rick-and-morty-flax-mu.vercel.app/](https://rick-and-morty-flax-mu.vercel.app/)
+[https://rick-and-morty-delta-lyart-67.vercel.app/](https://rick-and-morty-delta-lyart-67.vercel.app/)
 
 ![Alt Text](misc/preview2.png)
 
